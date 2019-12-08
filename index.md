@@ -2,19 +2,14 @@
 
 ---
 
-### Naytri Sramek
+### Naytri Sramek<img src="images/NS_profile.jpg?raw=true"/>
+* [Website](https://naytri.com)
+* [Twitter](https://twitter.com/naytrishroff)
 
-[Website](https://naytri.com)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Twitter](https://twitter.com/naytrishroff)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Jan Sramek
-
+### Jan Sramek<img src="images/tteKBVty_400x400.jpg?raw=true"/>
 * [Website](https://jansramek.com/)
 * [Twitter](https://twitter.com/jan_sramek)
 
