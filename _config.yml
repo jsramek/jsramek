@@ -1,9 +1,0 @@
-plugins:
-  - jemoji
-theme: jekyll-theme-minimal
-
-title: Srameks # your name (or website title) here
-logo: "/images/NJ252.JPG?raw=true" # your photo (or logo) here
-description: First description 
-
-# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
